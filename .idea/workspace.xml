@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5716454-d2ce-4f4d-8c8e-34228eba0551" name="Default Changelist" comment="" />
+    <list default="true" id="a5716454-d2ce-4f4d-8c8e-34228eba0551" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,15 +37,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1d3Tta18spphlDw9wdH6DNwqDVN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/steps" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cyclosLogin_selenium" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -50,7 +60,7 @@
       <recent name="D:\Cyclos_POM_Model" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: The user cannot login with an invalid username and/or password">
+  <component name="RunManager" selected="Cucumber Java.Feature: Cyclos">
     <configuration name="Feature: Cyclos" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Cyclos.feature" />
@@ -105,14 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Cucumber java.Scenario: The user cannot login with an invalid username and/or password" />
-        <item itemvalue="Cucumber java.Scenario: " />
-        <item itemvalue="Cucumber java.Feature: Cyclos" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -127,9 +131,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1591653939739">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="493" y="180" key="FileChooserDialogImpl" timestamp="1596463715459">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="493" y="180" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596463715459" />
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591653939739" />
     <state width="1237" height="165" key="GridCell.Tab.0.bottom" timestamp="1596015190965">
       <screen x="0" y="0" width="1280" height="680" />
@@ -155,10 +160,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="316" y="40" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1595947354601" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1595945477629">
+    <state x="121" y="0" key="SettingsEditor" timestamp="1597319632482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595945477629" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597319632482" />
     <state x="690" y="275" key="extract.method.dialog" timestamp="1591675417113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
